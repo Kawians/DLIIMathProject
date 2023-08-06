@@ -23,11 +23,11 @@
 
 ### Animate 2d Picture (First Order Motion Notebook):
 
-https://github.com/Kawians/DLIIMathProject/assets/31896340/7457ca73-c371-48b1-97a7-18de5d1a879a
+https://github.com/Kawians/DLIIMathProject/assets/31896340/e8447a7e-d7e9-4607-ba7e-c0b202a59956
 
 ### Enhance Video (ESRGAN_Video_Enhancement Notebook):
 
-https://github.com/Kawians/DLIIMathProject/assets/31896340/730503d8-5e56-4d94-8886-82a6811e80c4
+https://github.com/Kawians/DLIIMathProject/assets/31896340/f674f43f-966c-4a65-b8c5-6f98d32e24e8
 
 
 
