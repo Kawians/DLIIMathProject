@@ -1,8 +1,5 @@
 # DLIIMathProject
 
-## Streamlit App Link: https://testrepo-y12d7zyos0a.streamlit.app/
-
-## Streamlit Repo-Link: https://github.com/dusanBirta/test_repo/tree/main
 
 
 
