@@ -3,17 +3,17 @@
 
 
 
-### Yolov8 Face Detection
 
-Input Image:
+
+## Input Image:
 
 ![devito](https://github.com/Kawians/DLIIMathProject/assets/31896340/274280a6-4f6a-4d37-aa9b-afdfa2a8e144)
 
-Prediction:
+## Prediction (yolov8_face_detection Notebook):
 
 ![results](https://github.com/Kawians/DLIIMathProject/assets/31896340/bd7d28d0-4e25-43c5-ab47-d21f65fab4b7)
 
-Bounding Box Crop:
+## Bounding Box Crop (yolov8_face_detection Notebook):
 
 ![face_0](https://github.com/Kawians/DLIIMathProject/assets/31896340/9819d3db-04f0-4bc0-bdaf-e71d65b9d413)
 
