@@ -77,17 +77,11 @@ Enhanced Image (ESRGAN_Image_Enhancement Notebook):
   
 Animate 2d Picture (First Order Motion Notebook):  
   
-<video controls>
-  <source src="https://github.com/Kawians/DLIIMathProject/assets/31896340/e8447a7e-d7e9-4607-ba7e-c0b202a59956" type="video/mp4">
-  Your browser does not support the video tag.
-</video>  
+ https://github.com/Kawians/DLIIMathProject/assets/31896340/e8447a7e-d7e9-4607-ba7e-c0b202a59956
   
 Enhance Video (ESRGAN_Video_Enhancement Notebook):  
   
-<video controls>
-  <source src="https://github.com/Kawians/DLIIMathProject/assets/31896340/f674f43f-966c-4a65-b8c5-6f98d32e24e8" type="video/mp4" >
-  Your browser does not support the video tag.
-</video>  
+ https://github.com/Kawians/DLIIMathProject/assets/31896340/f674f43f-966c-4a65-b8c5-6f98d32e24e8
   
 Our primary motivation was to enhance facial details in 2D images and produce compelling 3D animations. The potential applications of this technology range from aiding suspect identification for law enforcement to capturing evidence of thieves caught on security cameras.  
   
